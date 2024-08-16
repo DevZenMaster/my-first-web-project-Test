@@ -33,3 +33,6 @@ To run this project locally, follow these steps:
 
    ```bash
    git clone https://github.com/DevZenMaster/my-first-web-project-Test.git
+
+
+   ![preview img](assests/img/preview.png)
