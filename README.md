@@ -8,10 +8,6 @@ Welcome to my personal web portfolio! This project showcases my work as a web de
 - [Overview](#overview)
 - [Features](#features)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 
